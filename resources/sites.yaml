@@ -1,0 +1,4 @@
+default:
+  name: 'I Can Manage Your Website'
+  url: /
+  locale: '{{ config:app:locale }}'

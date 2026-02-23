@@ -1,0 +1,14 @@
+name: 'Phil Stephens'
+super: true
+id: 25b17394-47f3-4a45-b3b9-6fa510f9a77f
+password_hash: $2y$12$YY9mOvPGvkxF2JkE3ORrd.o9uOOJU2b6MYui7iCidekkBPtGRtUZq
+preferences:
+  collections:
+    pages:
+      view: tree
+    blog:
+      view: list
+      columns:
+        - title
+        - date
+        - status

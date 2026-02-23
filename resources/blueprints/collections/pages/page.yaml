@@ -1,0 +1,108 @@
+title: Page
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: content
+            field:
+              type: replicator
+              display: Content
+              sets:
+                new_set_group:
+                  display: 'New Set Group'
+                  sets:
+                    hero:
+                      display: Hero
+                      fields:
+                        -
+                          handle: title
+                          field:
+                            type: text
+                            display: Title
+                        -
+                          handle: content
+                          field:
+                            type: markdown
+                            display: Content
+                    section:
+                      display: Section
+                      fields:
+                        -
+                          handle: title
+                          field:
+                            type: text
+                            display: Title
+                        -
+                          handle: content
+                          field:
+                            type: markdown
+                            display: Content
+                    cta:
+                      display: CTA
+                      fields:
+                        -
+                          handle: content
+                          field:
+                            type: markdown
+                            display: Content
+                        -
+                          handle: button_label
+                          field:
+                            type: text
+                            display: 'Button Label'
+                        -
+                          handle: button_link
+                          field:
+                            type: text
+                            display: 'Button Link'
+                    form:
+                      display: Form
+                      fields:
+                        -
+                          handle: title
+                          field:
+                            type: text
+                            display: Title
+                        -
+                          handle: form_field
+                          field:
+                            max_items: 1
+                            type: form
+                            display: 'Form Field'
+          -
+            handle: author
+            field:
+              type: users
+              display: Author
+              default: current
+              localizable: true
+              max_items: 1
+          -
+            handle: template
+            field:
+              type: template
+              display: Template
+              localizable: true
+      -
+        display: 'New Section'
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'

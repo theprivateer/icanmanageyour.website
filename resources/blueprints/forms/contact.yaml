@@ -1,0 +1,48 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: name
+            field:
+              type: text
+              display: 'Your name'
+              placeholder: 'Full name please'
+              validate:
+                - required
+          -
+            handle: company
+            field:
+              type: text
+              display: 'Your company or brand name'
+          -
+            handle: email
+            field:
+              input_type: email
+              type: text
+              display: 'Your email'
+              validate:
+                - required
+      -
+        display: 'The Website'
+        fields:
+          -
+            handle: website_url
+            field:
+              placeholder: 'https://'
+              type: text
+              display: 'Website URL'
+          -
+            handle: description
+            field:
+              type: textarea
+              display: 'Tell me more about what you need managing'
+              validate:
+                - required
+          -
+            handle: additional_info
+            field:
+              type: textarea
+              display: 'Anything else?'
