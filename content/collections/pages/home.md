@@ -5,7 +5,7 @@ title: Home
 author: 25b17394-47f3-4a45-b3b9-6fa510f9a77f
 template: default
 updated_by: 25b17394-47f3-4a45-b3b9-6fa510f9a77f
-updated_at: 1771810407
+updated_at: 1771845942
 content:
   -
     id: Fpuvb8dIRKamr3NCxW6i1
@@ -30,6 +30,8 @@ content:
       - Organisations that need a dependable point of contact
 
       You deal with a real person who knows your website, not a generic support desk.
+
+      [Read more](/support-for-non-technical-and-time-poor-businesses)
     type: section
     enabled: true
   -
@@ -39,6 +41,8 @@ content:
       WordPress is powerful, but it can quickly become unstable when themes, plugins, and updates are poorly managed. I regularly repair WordPress websites that have broken after updates, suffered performance issues, or become bloated and unreliable over time.
 
       That may involve fixing plugin conflicts, cleaning up themes, improving performance, or recommending a safer long-term approach if WordPress is no longer the right fit.
+
+      [Read more](/wordpress-problems-fixed-properly)
     type: section
     enabled: true
   -
@@ -48,6 +52,8 @@ content:
       I provide managed hosting that is fast, secure, and monitored. That includes keeping your site running, handling server updates, and responding quickly if something goes wrong.
 
       You do not need to worry about renewals, technical alerts, or sudden outages. Your website is actively looked after.
+
+      [Read more](/managed-hosting-that-stays-online)
     type: section
     enabled: true
   -
@@ -57,6 +63,8 @@ content:
       Websites need ongoing care to stay secure. I handle security updates, apply patches, and monitor for issues that could put your site at risk.
 
       For WordPress and other CMS-based websites, this includes maintaining plugins, themes, and core updates in a controlled way that reduces the chance of things breaking.
+
+      [Read more](/security-fixes-and-regular-maintenance)
     type: section
     enabled: true
   -
@@ -66,6 +74,8 @@ content:
       If you need changes made to your website, I can handle them for you. That might be updating text and images, adding new pages, posting news or blog content, or making small layout improvements.
 
       You can send updates by email or message and know they will be taken care of properly, without you having to log in or learn a system.
+
+      [Read more](/content-updates-without-the-hassle)
     type: section
     enabled: true
   -
@@ -75,6 +85,8 @@ content:
       My services are competitively and fairly priced, with clear expectations and no surprises. The goal is not to upsell or overcomplicate things, but to provide steady, dependable support.
 
       If something needs attention, I will tell you. If nothing does, your site simply keeps working in the background.
+
+      [Read more](/reliable-service-at-a-fair-price)
     type: section
     enabled: true
   -
