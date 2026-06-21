@@ -96,7 +96,7 @@ content:
 
       If you want your website managed by someone experienced, reliable, and easy to work with, I can help. Whether you need full management or light ongoing support, we can find an arrangement that suits your business.
     button_label: "Let's talk about keeping your website running"
-    button_link: /contact
+    button_link: 'mailto:phil@truenorthlabs.com.au'
     type: cta
     enabled: true
 ---
