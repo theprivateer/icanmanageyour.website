@@ -16,7 +16,7 @@
         "laravel/tinker": "^3.0",
         "mitydigital/feedamic": "3.0.13",
         "mitydigital/sitemapamic": "3.5.0",
-        "statamic/cms": "6.24.1",
+        "statamic/cms": "6.24.2",
         "symfony/mailgun-mailer": "^8.0"
     },
     "require-dev": {
