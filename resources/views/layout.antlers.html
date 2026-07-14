@@ -7,6 +7,11 @@
         <title>{{ site:name}} | {{ title ?? '' }}</title>
         {{ vite src="resources/js/site.js|resources/css/site.css" }}
         {{ feedamic }}
+        {{ if environment == "production" }}
+        <!-- Fathom - beautiful, simple website analytics -->
+        <script src="https://cdn.usefathom.com/script.js" data-site="XKHNAQFJ" defer></script>
+        <!-- / Fathom -->
+        {{ /if }}
     </head>
     <body class="font-sans leading-normal text-zinc-800 dark:text-zinc-400">
         <header class="mx-auto max-w-4xl flex justify-between text-xl py-8 items-center">
