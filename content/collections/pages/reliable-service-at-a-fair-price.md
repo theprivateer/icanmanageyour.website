@@ -6,39 +6,51 @@ author: 25b17394-47f3-4a45-b3b9-6fa510f9a77f
 updated_by: 25b17394-47f3-4a45-b3b9-6fa510f9a77f
 updated_at: 1771845917
 content:
-  -
-    id: Aj8yfa90Ic2n-fggFCQI3
-    title: 'Reliable service at a fair price'
+  - id: Aj8yfa90Ic2n-fggFCQI3
     content: |-
       Website support shouldn't feel unpredictable.
 
       You shouldn't be wondering what the next invoice will look like, whether something has quietly been added to your scope, or if you're paying for work that doesn't really need to be done.
 
       My approach is simple: clear expectations, fair pricing, steady support.
-    type: hero
     enabled: true
-  -
-    id: x7VAE0j879v8XhBIHNqyI
-    title: 'Clear scope, clear costs'
+    title: 'Reliable service at a fair price'
+    type: hero
+  - id: x7VAE0j879v8XhBIHNqyI
     content: |-
       Before any ongoing work begins, we agree on what's included.
 
       That might cover:
 
-      - Managed hosting
+      - Hosting, set up and looked after
       - Regular maintenance and updates
       - Security monitoring
       - Content changes
-      - Priority support    
+      - Priority response    
 
       You'll know what you're paying for and what falls outside that scope. If something extra is required, we'll discuss it first. No surprises.
 
       The goal is transparency, not complexity.
-    type: section
     enabled: true
-  -
-    id: ybH_j9b9Jj4-VLFJ80gJM
-    title: 'Fair, competitive pricing'
+    title: 'Clear scope, clear costs'
+    type: section
+  - id: Pq4nWs8vLmZ3TxDbEy6Kc
+    content: |-
+      Most website providers say "priority support" or "rapid response" and never tell you what those words mean. Here is what mine mean.
+
+      If you're on an ongoing plan:
+
+      - I'll acknowledge you within one business day
+      - Work starts within two business days
+      - If your site is down, I'll acknowledge it the same day and start that evening    
+
+      If you're not on a plan yet, expect an answer within two to three business days.
+
+      There is no 24/7 option, and I won't pretend otherwise. I'm one person. What I'll do is answer you, tell you the truth about when I can start, and then start when I said I would.
+    enabled: true
+    title: 'Response times, written down'
+    type: section
+  - id: ybH_j9b9Jj4-VLFJ80gJM
     content: |-
       Good website management does not need to be inflated or wrapped in technical language to justify the cost.
 
@@ -47,15 +59,14 @@ content:
       - Experience
       - Ongoing oversight
       - Proactive maintenance
-      - Rapid response when something goes wrong
+      - A response time I've actually committed to in writing
       - Peace of mind    
 
       I price services in a way that reflects the real work involved, without padding it out with unnecessary add-ons or bundled features you don't need.
-    type: section
     enabled: true
-  -
-    id: 6sQKHhIuyvSbbPleeo6mF
-    title: 'No upselling, no unnecessary projects'
+    title: 'Fair, competitive pricing'
+    type: section
+  - id: 6sQKHhIuyvSbbPleeo6mF
     content: |-
       Some providers are always looking for the next upgrade, redesign, or package tier.
 
@@ -63,14 +74,13 @@ content:
 
       If your website is functioning well and meeting your needs, there's no reason to suggest change for the sake of it.
 
-      If something genuinely needs attention, I'll explain why and outline your options clearly. If nothing needs doing, I'll say that too.
+      If something needs attention, I'll explain why and outline your options clearly. If nothing needs doing, I'll say that too.
 
       The aim is long-term stability, not constant churn.
-    type: section
     enabled: true
-  -
-    id: 2l5aWKvSNdh3rWOomEWtO
-    title: 'Proactive, not reactive'
+    title: 'No upselling, no unnecessary projects'
+    type: section
+  - id: 2l5aWKvSNdh3rWOomEWtO
     content: |-
       Reliable service isn't just about fixing things when they break.
 
@@ -84,22 +94,20 @@ content:
       Most of this work happens quietly in the background. Ideally, you won't notice it at all.
 
       Your website simply keeps working.
-    type: section
     enabled: true
-  -
-    id: VTTKEx0HxJJwFxcD9iI0e
-    title: 'Honest advice when it matters'
+    title: 'Proactive, not reactive'
+    type: section
+  - id: VTTKEx0HxJJwFxcD9iI0e
     content: |-
       Sometimes a business outgrows its current setup. Sometimes a plugin becomes unreliable. Sometimes a hosting configuration needs adjustment.
 
       When that happens, you'll get straightforward advice in plain language.
 
       No pressure. No scare tactics. Just a clear explanation of what's happening and what makes sense next.
-    type: section
     enabled: true
-  -
-    id: IJpirJvDhRIoZ1rNbMHGr
-    title: 'A steady, dependable relationship'
+    title: 'Honest advice when it matters'
+    type: section
+  - id: IJpirJvDhRIoZ1rNbMHGr
     content: |-
       What most business owners really want is consistency.
 
@@ -112,6 +120,7 @@ content:
       Reliable service isn't flashy. It's steady.
 
       If you're looking for long-term website support at a fair and predictable price, get in touch and we can talk about what would suit your business.
-    type: section
     enabled: true
+    title: 'A steady, dependable relationship'
+    type: section
 ---

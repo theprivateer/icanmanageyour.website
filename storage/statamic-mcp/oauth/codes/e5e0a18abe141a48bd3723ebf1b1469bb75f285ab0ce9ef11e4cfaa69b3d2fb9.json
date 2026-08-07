@@ -1,0 +1,33 @@
+{
+    "code_hash": "e5e0a18abe141a48bd3723ebf1b1469bb75f285ab0ce9ef11e4cfaa69b3d2fb9",
+    "client_id": "https:\/\/claude.ai\/oauth\/mcp-oauth-client-metadata",
+    "user_id": "25b17394-47f3-4a45-b3b9-6fa510f9a77f",
+    "scopes": [
+        "*",
+        "content:read",
+        "content:write",
+        "structures:read",
+        "structures:write",
+        "assets:read",
+        "assets:write",
+        "users:read",
+        "users:write",
+        "system:read",
+        "system:write",
+        "blueprints:read",
+        "blueprints:write",
+        "entries:read",
+        "entries:write",
+        "terms:read",
+        "terms:write",
+        "globals:read",
+        "globals:write",
+        "content-facade:read",
+        "content-facade:write"
+    ],
+    "code_challenge": "2s3KaKDQ8_wQDzrOlU-unoHptv2vbD1Jd030yNbPNp0",
+    "code_challenge_method": "S256",
+    "redirect_uri": "https:\/\/claude.ai\/api\/mcp\/auth_callback",
+    "expires_at": "2026-07-11T06:26:02+00:00",
+    "used": true
+}

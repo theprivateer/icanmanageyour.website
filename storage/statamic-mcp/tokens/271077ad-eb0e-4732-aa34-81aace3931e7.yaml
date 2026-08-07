@@ -1,0 +1,32 @@
+id: 271077ad-eb0e-4732-aa34-81aace3931e7
+user_id: 25b17394-47f3-4a45-b3b9-6fa510f9a77f
+name: 'Claude (OAuth)'
+token_hash: cbecf86374ca02e93951693cafbef0411101ad0c72c12c0ae8417d6351c3212a
+scopes:
+    - '*'
+    - 'content:read'
+    - 'content:write'
+    - 'structures:read'
+    - 'structures:write'
+    - 'assets:read'
+    - 'assets:write'
+    - 'users:read'
+    - 'users:write'
+    - 'system:read'
+    - 'system:write'
+    - 'blueprints:read'
+    - 'blueprints:write'
+    - 'entries:read'
+    - 'entries:write'
+    - 'terms:read'
+    - 'terms:write'
+    - 'globals:read'
+    - 'globals:write'
+    - 'content-facade:read'
+    - 'content-facade:write'
+oauth_client_id: 'https://claude.ai/oauth/mcp-oauth-client-metadata'
+oauth_client_name: Claude
+last_used_at: '2026-08-07T05:24:57+00:00'
+expires_at: '2026-08-10T10:31:24+00:00'
+created_at: '2026-08-03T10:31:24+00:00'
+updated_at: ~
